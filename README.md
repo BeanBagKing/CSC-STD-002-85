@@ -1,6 +1,8 @@
 # CSC-STD-002-85
 DEPARTMENT OF DEFENSE PASSWORD MANAGEMENT GUIDELINE - 12 April 1985 - CSC-STD-002-85
 
+![image](https://github.com/user-attachments/assets/9b748a83-d397-4e16-a1ed-e58127443bfc)
+
 This is one of those just 'cause projects. I've always wanted an original physical copy of The Green Book, but have never been able to find one, so I made my own
 
 ![image](https://github.com/user-attachments/assets/edce6fa1-ad60-4cf5-aeb2-f07b97853b3e)
