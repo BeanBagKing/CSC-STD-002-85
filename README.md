@@ -11,6 +11,6 @@ Text was taken from: https://irp.fas.org/nsa/rainbow/std002.htm
 
 And formatting from: https://dn790009.ca.archive.org/0/items/DTIC_ADA425705/DTIC_ADA425705.pdf / https://archive.org/details/DTIC_ADA425705/mode/2up
 
-I tried to get as close to the original as possible in font style, size, spacing, and other formatting items. I tried to break pages at the same place. That said, this is not a pixel perfect one-for-one. I've made numerious corrections to the OCR'ed text (lots of 5's to S's and vice versa). There's a lot of places where I can't tell if bolding was used, or if it was the scan. If anyone knows of any different scanned copies, please send me a link. Being able to compaire two different versions would be very useful.
+I tried to get as close to the original as possible in font style, size, spacing, and other formatting items. I tried to break pages at the same place. That said, this is not a pixel perfect one-for-one. I've made numerious corrections to the OCR'ed text (lots of 5's to S's and vice versa). There's a lot of places where I can't tell if bolding was used, or if it was the scan. If anyone knows of any different scanned copies, please send me a link. Being able to compare two different versions would be very useful.
 
 I'm uploading copies of std002.txt and DTIC_ADA425705.pdf, which are the fas.org text and archive.org pdf respectively, as source materials. 
